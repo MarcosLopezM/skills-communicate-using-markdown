@@ -1,1 +1,3 @@
 # Index header ✔️
+
+![Placeholder image of my current situation](https://i.pinimg.com/originals/0a/e2/a4/0ae2a4e9c83704bc7699316ad9d43f0c.jpg)
