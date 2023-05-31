@@ -9,3 +9,9 @@
 ```python
   print("I don't know what I am doing with my life. I have no purpose.")
 ```
+
+## Make a task list
+
+- [ ] Try to change
+- [ ] Improve everything about me
+- [ ] Introduce myself to the world
